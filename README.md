@@ -9,6 +9,26 @@ Dashboard analítico interativo do Golden State Warriors cobrindo cinco temporad
 
 ---
 
+## Apresentação
+
+**Visão geral do ciclo** — os cinco anos lado a lado, com KPIs, evolução do aproveitamento, campanha em casa e o resumo da década.
+
+![Visão geral do dashboard](img/apresentacao/dashboard-geral.png)
+
+**Elenco atual** — plantel em cards com as fotos oficiais, filtrável por posição.
+
+![Elenco em cards](img/apresentacao/elenco-cards.png)
+
+**Ficha técnica** — o mesmo elenco em tabela: número, posição, idade, altura, peso, universidade, experiência e salário.
+
+![Ficha técnica do elenco](img/apresentacao/elenco-ficha.png)
+
+**Cestinhas do ciclo** — todos os pontuadores das cinco temporadas, ordenados por pontos totais.
+
+![Cestinhas do ciclo](img/apresentacao/cestinhas.png)
+
+---
+
 ## Sobre o Projeto
 
 Projeto pessoal feito por hobby, no mesmo espírito do meu [dashboard do Santos FC](https://github.com/mucamuca/DBSantos) — desta vez aplicado ao basquete. A ideia foi reunir **461 jogos** em cinco temporadas (410 de temporada regular e 51 de pós-temporada) e transformar os dados brutos numa narrativa visual completa sobre o ciclo recente do Golden State Warriors: do quarto título em oito anos, em 2022, até a primeira campanha negativa em quinze anos, em 2026.
@@ -70,6 +90,7 @@ warriors/
 ├── img/
 │   ├── logo.png                        # Escudo oficial, fundo removido
 │   ├── chase.jpg                       # Chase Center, recortado para o painel
+│   ├── apresentacao/                   # Screenshots usados neste README
 │   └── jogadores/                      # 57 headshots oficiais (<id da ESPN>.png)
 ├── dados/
 │   ├── warriors_2021_2026_jogos.csv    # Base bruta: 461 jogos
