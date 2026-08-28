@@ -147,3 +147,7 @@ Rating ofensivo e defensivo, ritmo, posses e estatísticas de arremesso por regi
 ## Licença
 
 Projeto de uso pessoal e educacional. Painel analítico não oficial, sem vínculo com o Golden State Warriors, com a NBA ou com a ESPN. O escudo, a foto do Chase Center e os headshots dos jogadores pertencem aos seus respectivos detentores de direitos.
+
+## Autor
+
+**Murilo Roque** — [@murilotroque](https://github.com/murilotroque)
