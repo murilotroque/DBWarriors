@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Warriors 2021–2026 · Cinco Temporadas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/painel.css">
+</head>
+<body>
+
+<div class="canvas" id="canvas">
+
+  <header class="top">
+    <div class="crest" role="img" aria-label="Escudo do Golden State Warriors"></div>
+    <div class="title">
+      <h1>GOLDEN STATE WARRIORS</h1>
+      <div class="sub">Cinco temporadas · 2021-22 a 2025-26 — 410 jogos de temporada regular</div>
+    </div>
+    <div class="motto">Strength in <b>numbers</b></div>
+    <div>
+      <div class="loc">◉ <b>Chase Center</b> · San Francisco, CA</div>
+      <div class="seasons" role="group" aria-label="Selecionar recorte">
+        <button type="button" class="elencoBtn" id="btnElenco"
+                aria-haspopup="dialog" aria-expanded="false">◍ Elenco</button>
+        <button type="button" class="elencoBtn" id="btnCest"
+                aria-haspopup="dialog" aria-expanded="false">◉ Cestinhas</button>
+        <button type="button" class="todosBtn" data-v="todas" aria-pressed="false">Todas</button>
+        <span class="sep"></span>
+        <span class="lbl">Temporada</span>
+        <button type="button" data-v="2021-22" aria-pressed="false">21-22</button>
+        <button type="button" data-v="2022-23" aria-pressed="false">22-23</button>
+        <button type="button" data-v="2023-24" aria-pressed="false">23-24</button>
+        <button type="button" data-v="2024-25" aria-pressed="false">24-25</button>
+        <button type="button" data-v="2025-26" aria-pressed="true">25-26</button>
+      </div>
+    </div>
+  </header>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores"></section>
+
+  <section class="row">
+    <div class="p c3 posp">
+      <h2 id="posTit">Pós-temporada</h2>
+      <p class="hint" id="posHint"></p>
+      <div class="pos" id="pos"></div>
+    </div>
+
+    <div class="p c6 wm">
+      <h2 id="curvaTit">Evolução do aproveitamento</h2>
+      <p class="hint" id="curvaHint"></p>
+      <div class="leg" id="legCurva"></div>
+      <div class="chart" id="cCurva"></div>
+      <details class="tw"><summary>Ver dados em tabela</summary><div class="twrap" id="tCurva"></div></details>
+    </div>
+
+    <div class="p c3 chasep">
+      <div class="cphoto" role="img" aria-label="Chase Center, ginásio dos Warriors"><span>Chase Center</span></div>
+      <div class="cbody">
+        <h2>Campanha em casa</h2>
+        <p class="hint" id="casaHint"></p>
+        <div class="casa" id="casa"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="row">
+    <div class="p c3" data-vista="ano">
+      <h2>Casa x Fora<span class="n2">aproveitamento</span></h2>
+      <div class="leg" id="legMando"></div>
+      <div class="chart" id="cMando"></div>
+      <div class="mtab" id="mtab"></div>
+    </div>
+
+    <div class="p c3" data-vista="todas">
+      <h2>As cinco temporadas<span class="n2">aproveitamento · saldo por jogo</span></h2>
+      <div class="chart" id="cCiclo"></div>
+    </div>
+
+    <div class="p c3" data-vista="ano">
+      <h2>Mês a mês<span class="n2">vitórias, derrotas e saldo</span></h2>
+      <div class="leg" id="legMes" style="margin-top:7px"></div>
+      <div class="chart" id="cMes"></div>
+    </div>
+
+    <div class="p c3" data-vista="todas">
+      <h2>Casa x fora nos cinco anos<span class="n2">aproveitamento</span></h2>
+      <div class="leg" id="legDum"></div>
+      <div class="chart" id="cDum"></div>
+    </div>
+
+    <div class="p c3">
+      <h2 id="carrTit">Carrascos<span class="n2">derrotas por adversário</span></h2>
+      <div class="rank" id="carr"></div>
+    </div>
+
+    <div class="p c3">
+      <h2 id="resTit">Maiores margens</h2>
+      <div class="res" id="res"></div>
+    </div>
+  </section>
+
+  <section class="row">
+    <div class="p c8">
+      <h2 id="cestTit">Cestinhas da temporada<span class="n2" id="cestHint"></span></h2>
+      <div class="ceststrip" id="cest"></div>
+    </div>
+    <div class="p c4">
+      <h2 id="sumTit">Resumo da temporada</h2>
+      <p class="hint" id="sumHint"></p>
+      <ul class="sum" id="sum"></ul>
+    </div>
+  </section>
+
+  <div class="modal" id="modalCest" role="dialog" aria-modal="true"
+       aria-labelledby="mTitulo" hidden>
+    <div class="mhead">
+      <div>
+        <h2 id="mTitulo">Cestinhas</h2>
+        <p class="msub" id="mSub"></p>
+      </div>
+      <button type="button" class="mclose" id="btnFechar" aria-label="Fechar">✕</button>
+    </div>
+    <div class="mtabs" id="mTabs" role="tablist"></div>
+    <div class="mbody"><div class="mwrap" id="mGrid"></div></div>
+    <p class="mfoot">Médias por jogo na temporada regular · estatísticas individuais da Wikipedia e do landofbasketball</p>
+  </div>
+
+  <div class="modal" id="modalElenco" role="dialog" aria-modal="true"
+       aria-labelledby="eTitulo" hidden>
+    <div class="mhead">
+      <div>
+        <h2 id="eTitulo">Elenco</h2>
+        <p class="msub" id="eSub"></p>
+      </div>
+      <div class="mhead-acoes">
+        <button type="button" class="vistaBtn" id="btnVista" aria-pressed="false">
+          Ver ficha técnica
+        </button>
+        <button type="button" class="mclose" id="btnFecharElenco" aria-label="Fechar">✕</button>
+      </div>
+    </div>
+    <div class="mtabs" id="eTabs" role="tablist"></div>
+    <div class="mbody"><div class="mwrap" id="eGrid"></div></div>
+    <p class="mfoot" id="eFoot">Elenco e fotos oficiais · espn.com.br</p>
+  </div>
+
+  <footer class="foot">
+    <span>FONTE: <b>Wikipedia (game logs e tabelas de estatística), landofbasketball</b> · base própria de 461 jogos, conferida jogo a jogo</span>
+    <span>NÃO COBERTO: ratings ofensivo/defensivo, posse de bola e estatísticas de arremesso por quadra — exigem play-by-play</span>
+    <span><b>PAINEL ANALÍTICO NÃO OFICIAL</b> · 2021–2026</span>
+  </footer>
+</div>
+
+<script src="js/dados.js"></script>
+<script src="js/elenco.js"></script>
+<script src="js/painel.js"></script>
+</body>
+</html>

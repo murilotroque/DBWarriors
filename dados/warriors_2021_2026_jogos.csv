@@ -1,0 +1,462 @@
+temporada,fase,jogo,data,adversario,local,pontos_pro,pontos_contra,prorrogacao,resultado,cestinha,pontos_cestinha
+2021-22,temporada regular,1,October 19,L.A. Lakers,fora,121,114,nao,vitoria,Stephen Curry,21
+2021-22,temporada regular,2,October 21,L.A. Clippers,casa,115,113,nao,vitoria,Stephen Curry,45
+2021-22,temporada regular,3,October 24,Sacramento,fora,119,107,nao,vitoria,Stephen Curry,27
+2021-22,temporada regular,4,October 26,Oklahoma City,fora,106,98,nao,vitoria,Stephen Curry,23
+2021-22,temporada regular,5,October 28,Memphis,casa,101,104,sim,derrota,Stephen Curry,36
+2021-22,temporada regular,6,October 30,Oklahoma City,casa,103,82,nao,vitoria,Stephen Curry,20
+2021-22,temporada regular,7,November 3,Charlotte,casa,114,92,nao,vitoria,Jordan Poole,31
+2021-22,temporada regular,8,November 5,New Orleans,casa,126,85,nao,vitoria,Jordan Poole,26
+2021-22,temporada regular,9,November 7,Houston,casa,120,107,nao,vitoria,Jordan Poole,25
+2021-22,temporada regular,10,November 8,Atlanta,casa,127,113,nao,vitoria,Stephen Curry,50
+2021-22,temporada regular,11,November 10,Minnesota,casa,123,110,nao,vitoria,Andrew Wiggins,35
+2021-22,temporada regular,12,November 12,Chicago,casa,119,93,nao,vitoria,Stephen Curry,40
+2021-22,temporada regular,13,November 14,Charlotte,fora,102,106,nao,derrota,Andrew Wiggins,28
+2021-22,temporada regular,14,November 16,Brooklyn,fora,117,99,nao,vitoria,Stephen Curry,37
+2021-22,temporada regular,15,November 18,Cleveland,fora,104,89,nao,vitoria,Stephen Curry,40
+2021-22,temporada regular,16,November 19,Detroit,fora,105,102,nao,vitoria,Jordan Poole,32
+2021-22,temporada regular,17,November 21,Toronto,casa,119,104,nao,vitoria,Jordan Poole,33
+2021-22,temporada regular,18,November 24,Philadelphia,casa,116,96,nao,vitoria,Stephen Curry,25
+2021-22,temporada regular,19,November 26,Portland,casa,118,103,nao,vitoria,Stephen Curry,32
+2021-22,temporada regular,20,November 28,L.A. Clippers,fora,105,90,nao,vitoria,Stephen Curry,33
+2021-22,temporada regular,21,November 30,Phoenix,fora,96,104,nao,derrota,Jordan Poole,28
+2021-22,temporada regular,22,December 3,Phoenix,casa,118,96,nao,vitoria,Stephen Curry,23
+2021-22,temporada regular,23,December 4,San Antonio,casa,107,112,nao,derrota,Stephen Curry,27
+2021-22,temporada regular,24,December 6,Orlando,casa,126,95,nao,vitoria,Stephen Curry,31
+2021-22,temporada regular,25,December 8,Portland,casa,104,94,nao,vitoria,Stephen Curry,22
+2021-22,temporada regular,26,December 11,Philadelphia,fora,93,102,nao,derrota,Jordan Poole,23
+2021-22,temporada regular,27,December 13,Indiana,fora,102,100,nao,vitoria,Stephen Curry,26
+2021-22,temporada regular,28,December 14,New York,fora,105,96,nao,vitoria,Stephen Curry,22
+2021-22,temporada regular,29,December 17,Boston,fora,111,107,nao,vitoria,Stephen Curry,30
+2021-22,temporada regular,30,December 18,Toronto,fora,100,119,nao,derrota,Jonathan Kuminga,26
+2021-22,temporada regular,31,December 20,Sacramento,casa,113,98,nao,vitoria,Stephen Curry,30
+2021-22,temporada regular,32,December 23,Memphis,casa,113,104,nao,vitoria,Stephen Curry,46
+2021-22,temporada regular,33,December 25,Phoenix,fora,116,107,nao,vitoria,Stephen Curry,33
+2021-22,temporada regular,34,December 28,Denver,casa,86,89,nao,derrota,Stephen Curry,23
+2021-22,temporada regular,35,January 1,Utah,fora,123,116,nao,vitoria,Stephen Curry,28
+2021-22,temporada regular,36,January 3,Miami,casa,115,108,nao,vitoria,Jordan Poole,32
+2021-22,temporada regular,37,January 5,Dallas,fora,82,99,nao,derrota,Andrew Wiggins,17
+2021-22,temporada regular,38,January 6,New Orleans,fora,96,101,nao,derrota,Andrew Wiggins,21
+2021-22,temporada regular,39,January 9,Cleveland,casa,96,82,nao,vitoria,Stephen Curry,28
+2021-22,temporada regular,40,January 11,Memphis,fora,108,116,nao,derrota,Stephen Curry,27
+2021-22,temporada regular,41,January 13,Milwaukee,fora,99,118,nao,derrota,Andrew Wiggins,16
+2021-22,temporada regular,42,January 14,Chicago,fora,138,96,nao,vitoria,Jonathan Kuminga,25
+2021-22,temporada regular,43,January 16,Minnesota,fora,99,119,nao,derrota,Jordan Poole,20
+2021-22,temporada regular,44,January 18,Detroit,casa,102,86,nao,vitoria,Klay Thompson,21
+2021-22,temporada regular,45,January 20,Indiana,casa,117,121,sim,derrota,Stephen Curry,39
+2021-22,temporada regular,46,January 21,Houston,casa,105,103,nao,vitoria,Stephen Curry,22
+2021-22,temporada regular,47,January 23,Utah,casa,94,92,nao,vitoria,Jordan Poole,20
+2021-22,temporada regular,48,January 25,Dallas,casa,130,92,nao,vitoria,Jonathan Kuminga,22
+2021-22,temporada regular,49,January 27,Minnesota,casa,124,115,nao,vitoria,Stephen Curry,29
+2021-22,temporada regular,50,January 29,Brooklyn,casa,110,106,nao,vitoria,Andrew Wiggins,24
+2021-22,temporada regular,51,January 31,Houston,fora,122,108,nao,vitoria,Stephen Curry,40
+2021-22,temporada regular,52,February 1,San Antonio,fora,124,120,nao,vitoria,Jordan Poole,31
+2021-22,temporada regular,53,February 3,Sacramento,casa,126,114,nao,vitoria,Klay Thompson,23
+2021-22,temporada regular,54,February 7,Oklahoma City,fora,110,98,nao,vitoria,Klay Thompson,21
+2021-22,temporada regular,55,February 9,Utah,fora,85,111,nao,derrota,Jordan Poole,18
+2021-22,temporada regular,56,February 10,New York,casa,114,116,nao,derrota,Stephen Curry,35
+2021-22,temporada regular,57,February 12,L.A. Lakers,casa,117,115,nao,vitoria,Klay Thompson,33
+2021-22,temporada regular,58,February 14,L.A. Clippers,fora,104,119,nao,derrota,Stephen Curry,33
+2021-22,temporada regular,59,February 16,Denver,casa,116,117,nao,derrota,Stephen Curry,25
+2021-22,temporada regular,60,February 24,Portland,fora,132,95,nao,vitoria,"Curry, Thompson",18
+2021-22,temporada regular,61,February 27,Dallas,casa,101,107,nao,derrota,Stephen Curry,27
+2021-22,temporada regular,62,March 1,Minnesota,fora,114,129,nao,derrota,Stephen Curry,34
+2021-22,temporada regular,63,March 3,Dallas,fora,113,122,nao,derrota,Jordan Poole,23
+2021-22,temporada regular,64,March 5,L.A. Lakers,fora,116,124,nao,derrota,Stephen Curry,30
+2021-22,temporada regular,65,March 7,Denver,fora,124,131,nao,derrota,Jordan Poole,32
+2021-22,temporada regular,66,March 8,L.A. Clippers,casa,112,97,nao,vitoria,Jonathan Kuminga,21
+2021-22,temporada regular,67,March 10,Denver,fora,113,102,nao,vitoria,Stephen Curry,34
+2021-22,temporada regular,68,March 12,Milwaukee,casa,122,109,nao,vitoria,Klay Thompson,38
+2021-22,temporada regular,69,March 14,Washington,casa,126,112,nao,vitoria,Stephen Curry,47
+2021-22,temporada regular,70,March 16,Boston,casa,88,110,nao,derrota,Jordan Poole,29
+2021-22,temporada regular,71,March 20,San Antonio,casa,108,110,nao,derrota,Jordan Poole,28
+2021-22,temporada regular,72,March 22,Orlando,fora,90,94,nao,derrota,Jordan Poole,26
+2021-22,temporada regular,73,March 23,Miami,fora,118,104,nao,vitoria,Jordan Poole,30
+2021-22,temporada regular,74,March 25,Atlanta,fora,110,121,nao,derrota,Klay Thompson,37
+2021-22,temporada regular,75,March 27,Washington,fora,115,123,nao,derrota,Jordan Poole,26
+2021-22,temporada regular,76,March 28,Memphis,fora,95,123,nao,derrota,Jordan Poole,25
+2021-22,temporada regular,77,March 30,Phoenix,casa,103,107,nao,derrota,Jordan Poole,38
+2021-22,temporada regular,78,April 2,Utah,casa,111,107,nao,vitoria,Klay Thompson,36
+2021-22,temporada regular,79,April 3,Sacramento,fora,109,90,nao,vitoria,Andrew Wiggins,25
+2021-22,temporada regular,80,April 7,L.A. Lakers,casa,128,112,nao,vitoria,Klay Thompson,33
+2021-22,temporada regular,81,April 9,San Antonio,fora,100,94,nao,vitoria,"Poole, Kuminga",18
+2021-22,temporada regular,82,April 10,New Orleans,fora,128,107,nao,vitoria,Klay Thompson,41
+2021-22,playoffs,1,April 16,Denver,casa,123,107,nao,vitoria,Jordan Poole,30
+2021-22,playoffs,2,April 18,Denver,casa,126,106,nao,vitoria,Stephen Curry,34
+2021-22,playoffs,3,April 21,Denver,fora,118,113,nao,vitoria,"Poole, Curry",27
+2021-22,playoffs,4,April 24,Denver,fora,121,126,nao,derrota,Stephen Curry,33
+2021-22,playoffs,5,April 27,Denver,casa,102,98,nao,vitoria,Stephen Curry,30
+2021-22,playoffs,1,May 1,Memphis,fora,117,116,nao,vitoria,Jordan Poole,31
+2021-22,playoffs,2,May 3,Memphis,fora,101,106,nao,derrota,Stephen Curry,27
+2021-22,playoffs,3,May 7,Memphis,casa,142,112,nao,vitoria,Stephen Curry,30
+2021-22,playoffs,4,May 9,Memphis,casa,101,98,nao,vitoria,Stephen Curry,32
+2021-22,playoffs,5,May 11,Memphis,fora,95,134,nao,derrota,Klay Thompson,19
+2021-22,playoffs,6,May 13,Memphis,casa,110,96,nao,vitoria,Klay Thompson,30
+2021-22,playoffs,1,May 18,Dallas,casa,112,87,nao,vitoria,Stephen Curry,21
+2021-22,playoffs,2,May 20,Dallas,casa,126,117,nao,vitoria,Stephen Curry,32
+2021-22,playoffs,3,May 22,Dallas,fora,109,100,nao,vitoria,Stephen Curry,31
+2021-22,playoffs,4,May 24,Dallas,fora,109,119,nao,derrota,Stephen Curry,20
+2021-22,playoffs,5,May 26,Dallas,casa,120,110,nao,vitoria,Klay Thompson,32
+2021-22,playoffs,1,June 2,Boston,casa,108,120,nao,derrota,Stephen Curry,34
+2021-22,playoffs,2,June 5,Boston,casa,107,88,nao,vitoria,Stephen Curry,29
+2021-22,playoffs,3,June 8,Boston,fora,100,116,nao,derrota,Stephen Curry,31
+2021-22,playoffs,4,June 10,Boston,fora,107,97,nao,vitoria,Stephen Curry,43
+2021-22,playoffs,5,June 13,Boston,casa,104,94,nao,vitoria,Andrew Wiggins,26
+2021-22,playoffs,6,June 16,Boston,fora,103,90,nao,vitoria,Stephen Curry,34
+2022-23,temporada regular,1,October 18,L.A. Lakers,casa,123,109,nao,vitoria,Stephen Curry,33
+2022-23,temporada regular,2,October 21,Denver,casa,123,128,nao,derrota,Stephen Curry,34
+2022-23,temporada regular,3,October 23,Sacramento,casa,130,125,nao,vitoria,Stephen Curry,33
+2022-23,temporada regular,4,October 25,Phoenix,fora,105,134,nao,derrota,Stephen Curry,21
+2022-23,temporada regular,5,October 27,Miami,casa,123,110,nao,vitoria,Stephen Curry,33
+2022-23,temporada regular,6,October 29,Charlotte,fora,113,120,sim,derrota,Stephen Curry,31
+2022-23,temporada regular,7,October 30,Detroit,fora,114,128,nao,derrota,Stephen Curry,32
+2022-23,temporada regular,8,November 1,Miami,fora,109,116,nao,derrota,Stephen Curry,23
+2022-23,temporada regular,9,November 3,Orlando,fora,129,130,nao,derrota,Stephen Curry,39
+2022-23,temporada regular,10,November 4,New Orleans,fora,105,114,nao,derrota,Jordan Poole,20
+2022-23,temporada regular,11,November 7,Sacramento,casa,116,113,nao,vitoria,Stephen Curry,47
+2022-23,temporada regular,12,November 11,Cleveland,casa,106,101,nao,vitoria,Stephen Curry,40
+2022-23,temporada regular,13,November 13,Sacramento,fora,115,122,nao,derrota,Stephen Curry,27
+2022-23,temporada regular,14,November 14,San Antonio,casa,132,95,nao,vitoria,Jordan Poole,36
+2022-23,temporada regular,15,November 16,Phoenix,fora,119,130,nao,derrota,Stephen Curry,50
+2022-23,temporada regular,16,November 18,New York,casa,111,101,nao,vitoria,Stephen Curry,24
+2022-23,temporada regular,17,November 20,Houston,fora,127,120,nao,vitoria,Klay Thompson,41
+2022-23,temporada regular,18,November 21,New Orleans,fora,83,128,nao,derrota,Jordan Poole,26
+2022-23,temporada regular,19,November 23,L.A. Clippers,casa,124,107,nao,vitoria,Andrew Wiggins,31
+2022-23,temporada regular,20,November 25,Utah,casa,129,118,nao,vitoria,Stephen Curry,33
+2022-23,temporada regular,21,November 27,Minnesota,fora,137,114,nao,vitoria,Stephen Curry,25
+2022-23,temporada regular,22,November 29,Dallas,fora,113,116,nao,derrota,Stephen Curry,32
+2022-23,temporada regular,23,December 2,Chicago,casa,119,111,nao,vitoria,Jordan Poole,30
+2022-23,temporada regular,24,December 3,Houston,casa,120,101,nao,vitoria,Andrew Wiggins,36
+2022-23,temporada regular,25,December 5,Indiana,casa,104,112,nao,derrota,Klay Thompson,28
+2022-23,temporada regular,26,December 7,Utah,fora,123,124,nao,derrota,Jordan Poole,36
+2022-23,temporada regular,27,December 10,Boston,casa,123,107,nao,vitoria,Klay Thompson,34
+2022-23,temporada regular,28,December 13,Milwaukee,fora,111,128,nao,derrota,Stephen Curry,20
+2022-23,temporada regular,29,December 14,Indiana,fora,119,125,nao,derrota,Stephen Curry,38
+2022-23,temporada regular,30,December 16,Philadelphia,fora,106,118,nao,derrota,Jordan Poole,29
+2022-23,temporada regular,31,December 18,Toronto,fora,126,110,nao,vitoria,Jordan Poole,43
+2022-23,temporada regular,32,December 20,New York,fora,94,132,nao,derrota,Jordan Poole,26
+2022-23,temporada regular,33,December 21,Brooklyn,fora,113,143,nao,derrota,James Wiseman,30
+2022-23,temporada regular,34,December 25,Memphis,casa,123,109,nao,vitoria,Jordan Poole,32
+2022-23,temporada regular,35,December 27,Charlotte,casa,110,105,nao,vitoria,Jordan Poole,29
+2022-23,temporada regular,36,December 28,Utah,casa,112,107,nao,vitoria,Jordan Poole,26
+2022-23,temporada regular,37,December 30,Portland,casa,118,112,nao,vitoria,Jordan Poole,41
+2022-23,temporada regular,38,January 2,Atlanta,casa,143,141,sim,vitoria,Klay Thompson,54
+2022-23,temporada regular,39,January 4,Detroit,casa,119,122,nao,derrota,Klay Thompson,30
+2022-23,temporada regular,40,January 7,Orlando,casa,101,115,nao,derrota,Anthony Lamb,26
+2022-23,temporada regular,41,January 10,Phoenix,casa,113,125,nao,derrota,Klay Thompson,29
+2022-23,temporada regular,42,January 13,San Antonio,fora,144,113,nao,vitoria,Jordan Poole,25
+2022-23,temporada regular,43,January 15,Chicago,fora,118,132,nao,derrota,Klay Thompson,26
+2022-23,temporada regular,44,January 16,Washington,fora,127,118,nao,vitoria,Stephen Curry,41
+2022-23,temporada regular,45,January 19,Boston,fora,118,121,sim,derrota,Stephen Curry,29
+2022-23,temporada regular,46,January 20,Cleveland,fora,120,114,nao,vitoria,Jordan Poole,32
+2022-23,temporada regular,47,January 22,Brooklyn,casa,116,120,nao,derrota,Stephen Curry,26
+2022-23,temporada regular,48,January 25,Memphis,casa,122,120,nao,vitoria,Stephen Curry,34
+2022-23,temporada regular,49,January 27,Toronto,casa,129,117,nao,vitoria,Stephen Curry,35
+2022-23,temporada regular,50,January 30,Oklahoma City,fora,128,120,nao,vitoria,Stephen Curry,38
+2022-23,temporada regular,51,February 1,Minnesota,fora,114,119,nao,derrota,Stephen Curry,29
+2022-23,temporada regular,52,February 2,Denver,fora,117,134,nao,derrota,Stephen Curry,28
+2022-23,temporada regular,53,February 4,Dallas,casa,119,113,nao,vitoria,Stephen Curry,21
+2022-23,temporada regular,54,February 6,Oklahoma City,casa,141,114,nao,vitoria,Klay Thompson,42
+2022-23,temporada regular,55,February 8,Portland,fora,122,125,nao,derrota,Jordan Poole,38
+2022-23,temporada regular,56,February 11,L.A. Lakers,casa,103,109,nao,derrota,Jordan Poole,29
+2022-23,temporada regular,57,February 13,Washington,casa,135,126,nao,vitoria,Andrew Wiggins,29
+2022-23,temporada regular,58,February 14,L.A. Clippers,fora,124,134,nao,derrota,Jordan Poole,28
+2022-23,temporada regular,59,February 23,L.A. Lakers,fora,111,124,nao,derrota,Klay Thompson,22
+2022-23,temporada regular,60,February 24,Houston,casa,116,101,nao,vitoria,Klay Thompson,42
+2022-23,temporada regular,61,February 26,Minnesota,casa,109,104,nao,vitoria,Klay Thompson,32
+2022-23,temporada regular,62,February 28,Portland,casa,123,105,nao,vitoria,Jordan Poole,29
+2022-23,temporada regular,63,March 2,L.A. Clippers,casa,115,91,nao,vitoria,Jordan Poole,34
+2022-23,temporada regular,64,March 3,New Orleans,casa,108,99,nao,vitoria,Klay Thompson,27
+2022-23,temporada regular,65,March 5,L.A. Lakers,fora,105,113,nao,derrota,Stephen Curry,27
+2022-23,temporada regular,66,March 7,Oklahoma City,fora,128,137,nao,derrota,Stephen Curry,40
+2022-23,temporada regular,67,March 9,Memphis,fora,110,131,nao,derrota,Stephen Curry,29
+2022-23,temporada regular,68,March 11,Milwaukee,casa,125,116,sim,vitoria,Stephen Curry,36
+2022-23,temporada regular,69,March 13,Phoenix,casa,123,112,nao,vitoria,Klay Thompson,38
+2022-23,temporada regular,70,March 15,L.A. Clippers,fora,126,134,nao,derrota,Stephen Curry,50
+2022-23,temporada regular,71,March 17,Atlanta,fora,119,127,nao,derrota,Stephen Curry,31
+2022-23,temporada regular,72,March 18,Memphis,fora,119,133,nao,derrota,Jonathan Kuminga,24
+2022-23,temporada regular,73,March 20,Houston,fora,121,108,nao,vitoria,Stephen Curry,30
+2022-23,temporada regular,74,March 22,Dallas,fora,127,125,nao,vitoria,Jonathan Kuminga,22
+2022-23,temporada regular,75,March 24,Philadelphia,casa,120,112,nao,vitoria,Jordan Poole,33
+2022-23,temporada regular,76,March 26,Minnesota,casa,96,99,nao,derrota,Jordan Poole,27
+2022-23,temporada regular,77,March 28,New Orleans,casa,120,109,nao,vitoria,Stephen Curry,39
+2022-23,temporada regular,78,March 31,San Antonio,casa,130,115,nao,vitoria,Stephen Curry,33
+2022-23,temporada regular,79,April 2,Denver,fora,110,112,nao,derrota,Klay Thompson,25
+2022-23,temporada regular,80,April 4,Oklahoma City,casa,136,125,nao,vitoria,Stephen Curry,34
+2022-23,temporada regular,81,April 7,Sacramento,fora,119,97,nao,vitoria,Klay Thompson,29
+2022-23,temporada regular,82,April 9,Portland,fora,157,101,nao,vitoria,Stephen Curry,26
+2022-23,playoffs,1,April 15,Sacramento,fora,123,126,nao,derrota,Stephen Curry,30
+2022-23,playoffs,2,April 17,Sacramento,fora,106,114,nao,derrota,Stephen Curry,28
+2022-23,playoffs,3,April 20,Sacramento,casa,114,97,nao,vitoria,Stephen Curry,36
+2022-23,playoffs,4,April 23,Sacramento,casa,126,125,nao,vitoria,Stephen Curry,34
+2022-23,playoffs,5,April 26,Sacramento,fora,123,116,nao,vitoria,Stephen Curry,31
+2022-23,playoffs,6,April 28,Sacramento,casa,99,118,nao,derrota,Stephen Curry,29
+2022-23,playoffs,7,April 30,Sacramento,fora,120,100,nao,vitoria,Stephen Curry,50
+2022-23,playoffs,1,May 2,L.A. Lakers,casa,112,117,nao,derrota,Stephen Curry,27
+2022-23,playoffs,2,May 4,L.A. Lakers,casa,127,100,nao,vitoria,Klay Thompson,30
+2022-23,playoffs,3,May 6,L.A. Lakers,fora,97,127,nao,derrota,Stephen Curry,23
+2022-23,playoffs,4,May 8,L.A. Lakers,fora,101,104,nao,derrota,Stephen Curry,31
+2022-23,playoffs,5,May 10,L.A. Lakers,casa,121,106,nao,vitoria,Stephen Curry,27
+2022-23,playoffs,6,May 12,L.A. Lakers,fora,101,122,nao,derrota,Stephen Curry,32
+2023-24,temporada regular,1,October 24,Phoenix,casa,104,108,nao,derrota,Stephen Curry,27
+2023-24,temporada regular,2,October 27,Sacramento,fora,122,114,nao,vitoria,Stephen Curry,41
+2023-24,temporada regular,3,October 29,Houston,fora,106,95,nao,vitoria,Stephen Curry,24
+2023-24,temporada regular,4,October 30,New Orleans,fora,130,102,nao,vitoria,Stephen Curry,42
+2023-24,temporada regular,5,November 1,Sacramento,casa,102,101,nao,vitoria,Stephen Curry,21
+2023-24,temporada regular,6,November 3,Oklahoma City,fora,141,139,nao,vitoria,Stephen Curry,30
+2023-24,temporada regular,7,November 5,Cleveland,fora,104,115,nao,derrota,Stephen Curry,28
+2023-24,temporada regular,8,November 6,Detroit,fora,120,109,nao,vitoria,Stephen Curry,34
+2023-24,temporada regular,9,November 8,Denver,fora,105,108,nao,derrota,Stephen Curry,23
+2023-24,temporada regular,10,November 11,Cleveland,casa,110,118,nao,derrota,Stephen Curry,30
+2023-24,temporada regular,11,November 12,Minnesota,casa,110,116,nao,derrota,Stephen Curry,38
+2023-24,temporada regular,12,November 14,Minnesota,casa,101,104,nao,derrota,Brandin Podziemski,23
+2023-24,temporada regular,13,November 16,Oklahoma City,casa,109,128,nao,derrota,Jonathan Kuminga,21
+2023-24,temporada regular,14,November 18,Oklahoma City,casa,123,130,sim,derrota,Andrew Wiggins,31
+2023-24,temporada regular,15,November 20,Houston,casa,121,116,nao,vitoria,Stephen Curry,32
+2023-24,temporada regular,16,November 22,Phoenix,fora,115,123,nao,derrota,Klay Thompson,23
+2023-24,temporada regular,17,November 24,San Antonio,casa,118,112,nao,vitoria,Stephen Curry,35
+2023-24,temporada regular,18,November 28,Sacramento,fora,123,124,nao,derrota,"Curry, Wiggins",29
+2023-24,temporada regular,19,November 30,L.A. Clippers,casa,120,114,nao,vitoria,Stephen Curry,26
+2023-24,temporada regular,20,December 2,L.A. Clippers,fora,112,113,nao,derrota,Stephen Curry,22
+2023-24,temporada regular,21,December 6,Portland,casa,110,106,nao,vitoria,Stephen Curry,31
+2023-24,temporada regular,22,December 8,Oklahoma City,fora,136,138,sim,derrota,Stephen Curry,34
+2023-24,temporada regular,23,December 12,Phoenix,fora,116,119,nao,derrota,Stephen Curry,24
+2023-24,temporada regular,24,December 14,L.A. Clippers,fora,113,121,nao,derrota,Klay Thompson,30
+2023-24,temporada regular,25,December 16,Brooklyn,casa,124,120,nao,vitoria,Stephen Curry,37
+2023-24,temporada regular,26,December 17,Portland,fora,118,114,nao,vitoria,Klay Thompson,28
+2023-24,temporada regular,27,December 19,Boston,casa,132,126,sim,vitoria,Stephen Curry,33
+2023-24,temporada regular,28,December 22,Washington,casa,129,118,nao,vitoria,Stephen Curry,30
+2023-24,temporada regular,29,December 23,Portland,casa,126,106,nao,vitoria,Klay Thompson,28
+2023-24,temporada regular,30,December 25,Denver,fora,114,120,nao,derrota,Andrew Wiggins,22
+2023-24,temporada regular,31,December 28,Miami,casa,102,114,nao,derrota,"Curry, Thompson",13
+2023-24,temporada regular,32,December 30,Dallas,casa,122,132,nao,derrota,Stephen Curry,25
+2023-24,temporada regular,33,January 2,Orlando,casa,121,115,nao,vitoria,Stephen Curry,36
+2023-24,temporada regular,34,January 4,Denver,casa,127,130,nao,derrota,Stephen Curry,30
+2023-24,temporada regular,35,January 5,Detroit,casa,113,109,nao,vitoria,Stephen Curry,26
+2023-24,temporada regular,36,January 7,Toronto,casa,118,133,nao,derrota,Klay Thompson,25
+2023-24,temporada regular,37,January 10,New Orleans,casa,105,141,nao,derrota,Moses Moody,21
+2023-24,temporada regular,38,January 12,Chicago,fora,140,131,nao,vitoria,Klay Thompson,30
+2023-24,temporada regular,39,January 13,Milwaukee,fora,118,129,nao,derrota,Jonathan Kuminga,28
+2023-24,temporada regular,40,January 15,Memphis,fora,107,116,nao,derrota,Stephen Curry,26
+2023-24,temporada regular,41,January 24,Atlanta,casa,134,112,nao,vitoria,"Curry, Kuminga",25
+2023-24,temporada regular,42,January 25,Sacramento,casa,133,134,nao,derrota,Stephen Curry,33
+2023-24,temporada regular,43,January 27,L.A. Lakers,casa,144,145,sim,derrota,Stephen Curry,46
+2023-24,temporada regular,44,January 30,Philadelphia,casa,119,107,nao,vitoria,Stephen Curry,37
+2023-24,temporada regular,45,February 2,Memphis,fora,121,101,nao,vitoria,Jonathan Kuminga,29
+2023-24,temporada regular,46,February 3,Atlanta,fora,134,141,sim,derrota,Stephen Curry,60
+2023-24,temporada regular,47,February 5,Brooklyn,fora,109,98,nao,vitoria,Stephen Curry,29
+2023-24,temporada regular,48,February 7,Philadelphia,fora,127,104,nao,vitoria,Andrew Wiggins,21
+2023-24,temporada regular,49,February 8,Indiana,fora,131,109,nao,vitoria,Stephen Curry,42
+2023-24,temporada regular,50,February 10,Phoenix,casa,113,112,nao,vitoria,Stephen Curry,30
+2023-24,temporada regular,51,February 12,Utah,fora,129,107,nao,vitoria,Klay Thompson,26
+2023-24,temporada regular,52,February 14,L.A. Clippers,casa,125,130,nao,derrota,Stephen Curry,41
+2023-24,temporada regular,53,February 15,Utah,fora,140,137,nao,vitoria,Klay Thompson,35
+2023-24,temporada regular,54,February 22,L.A. Lakers,casa,128,110,nao,vitoria,Stephen Curry,32
+2023-24,temporada regular,55,February 23,Charlotte,casa,97,84,nao,vitoria,Stephen Curry,15
+2023-24,temporada regular,56,February 25,Denver,casa,103,119,nao,derrota,Klay Thompson,23
+2023-24,temporada regular,57,February 27,Washington,fora,123,112,nao,vitoria,Klay Thompson,25
+2023-24,temporada regular,58,February 29,New York,fora,110,99,nao,vitoria,Stephen Curry,31
+2023-24,temporada regular,59,March 1,Toronto,fora,120,105,nao,vitoria,Stephen Curry,25
+2023-24,temporada regular,60,March 3,Boston,fora,88,140,nao,derrota,Lester Quiñones,17
+2023-24,temporada regular,61,March 6,Milwaukee,casa,125,90,nao,vitoria,Stephen Curry,29
+2023-24,temporada regular,62,March 7,Chicago,casa,122,125,nao,derrota,Klay Thompson,25
+2023-24,temporada regular,63,March 9,San Antonio,casa,113,126,nao,derrota,Klay Thompson,27
+2023-24,temporada regular,64,March 11,San Antonio,fora,112,102,nao,vitoria,Jonathan Kuminga,22
+2023-24,temporada regular,65,March 13,Dallas,fora,99,109,nao,derrota,Jonathan Kuminga,27
+2023-24,temporada regular,66,March 16,L.A. Lakers,fora,128,121,nao,vitoria,Stephen Curry,31
+2023-24,temporada regular,67,March 18,New York,casa,112,119,nao,derrota,Stephen Curry,27
+2023-24,temporada regular,68,March 20,Memphis,casa,137,116,nao,vitoria,Jonathan Kuminga,26
+2023-24,temporada regular,69,March 22,Indiana,casa,111,123,nao,derrota,Stephen Curry,25
+2023-24,temporada regular,70,March 24,Minnesota,fora,110,114,nao,derrota,Stephen Curry,31
+2023-24,temporada regular,71,March 26,Miami,fora,113,92,nao,vitoria,Klay Thompson,28
+2023-24,temporada regular,72,March 27,Orlando,fora,101,93,nao,vitoria,Andrew Wiggins,23
+2023-24,temporada regular,73,March 29,Charlotte,fora,115,97,nao,vitoria,Stephen Curry,23
+2023-24,temporada regular,74,March 31,San Antonio,fora,117,113,nao,vitoria,Stephen Curry,33
+2023-24,temporada regular,75,April 2,Dallas,casa,104,100,nao,vitoria,Andrew Wiggins,23
+2023-24,temporada regular,76,April 4,Houston,fora,133,110,nao,vitoria,"Curry, Thompson",29
+2023-24,temporada regular,77,April 5,Dallas,fora,106,108,nao,derrota,Stephen Curry,28
+2023-24,temporada regular,78,April 7,Utah,casa,118,110,nao,vitoria,Klay Thompson,32
+2023-24,temporada regular,79,April 9,L.A. Lakers,fora,134,120,nao,vitoria,Klay Thompson,27
+2023-24,temporada regular,80,April 11,Portland,fora,100,92,nao,vitoria,Stephen Curry,22
+2023-24,temporada regular,81,April 12,New Orleans,casa,109,114,nao,derrota,Stephen Curry,33
+2023-24,temporada regular,82,April 14,Utah,casa,123,116,nao,vitoria,Klay Thompson,25
+2023-24,play-in,1,April 16,Sacramento,fora,94,118,nao,derrota,Stephen Curry,22
+2024-25,temporada regular,1,October 23,Portland,fora,140,104,nao,vitoria,Buddy Hield,22
+2024-25,temporada regular,2,October 25,Utah,fora,127,86,nao,vitoria,Buddy Hield,27
+2024-25,temporada regular,3,October 27,L.A. Clippers,casa,104,112,nao,derrota,Andrew Wiggins,29
+2024-25,temporada regular,4,October 29,New Orleans,casa,124,106,nao,vitoria,Buddy Hield,28
+2024-25,temporada regular,5,October 30,New Orleans,casa,104,89,nao,vitoria,Buddy Hield,21
+2024-25,temporada regular,6,November 2,Houston,fora,127,121,sim,vitoria,Buddy Hield,27
+2024-25,temporada regular,7,November 4,Washington,fora,125,112,nao,vitoria,Stephen Curry,24
+2024-25,temporada regular,8,November 6,Boston,fora,118,112,nao,vitoria,Stephen Curry,27
+2024-25,temporada regular,9,November 8,Cleveland,fora,117,136,nao,derrota,Jonathan Kuminga,21
+2024-25,temporada regular,10,November 10,Oklahoma City,fora,127,116,nao,vitoria,Stephen Curry,36
+2024-25,temporada regular,11,November 12,Dallas,casa,120,117,nao,vitoria,Stephen Curry,37
+2024-25,temporada regular,12,November 15,Memphis,casa,123,118,nao,vitoria,Buddy Hield,18
+2024-25,temporada regular,13,November 18,L.A. Clippers,fora,99,102,nao,derrota,Stephen Curry,26
+2024-25,temporada regular,14,November 20,Atlanta,casa,120,97,nao,vitoria,Andrew Wiggins,27
+2024-25,temporada regular,15,November 22,New Orleans,fora,112,108,nao,vitoria,Andrew Wiggins,30
+2024-25,temporada regular,16,November 23,San Antonio,fora,94,104,nao,derrota,Andrew Wiggins,20
+2024-25,temporada regular,17,November 25,Brooklyn,casa,120,128,nao,derrota,Stephen Curry,28
+2024-25,temporada regular,18,November 27,Oklahoma City,casa,101,105,nao,derrota,Jonathan Kuminga,19
+2024-25,temporada regular,19,November 30,Phoenix,fora,105,113,nao,derrota,Stephen Curry,23
+2024-25,temporada regular,20,December 3,Denver,fora,115,119,nao,derrota,Stephen Curry,24
+2024-25,temporada regular,21,December 5,Houston,casa,99,93,nao,vitoria,Jonathan Kuminga,33
+2024-25,temporada regular,22,December 6,Minnesota,casa,90,107,nao,derrota,Stephen Curry,23
+2024-25,temporada regular,23,December 8,Minnesota,casa,114,106,nao,vitoria,Stephen Curry,30
+2024-25,temporada regular,24,December 11,Houston,fora,90,91,nao,derrota,Jonathan Kuminga,20
+2024-25,temporada regular,25,December 15,Dallas,casa,133,143,nao,derrota,Andrew Wiggins,29
+2024-25,temporada regular,26,December 19,Memphis,fora,93,144,nao,derrota,Brandin Podziemski,21
+2024-25,temporada regular,27,December 21,Minnesota,fora,113,103,nao,vitoria,Stephen Curry,31
+2024-25,temporada regular,28,December 23,Indiana,casa,105,111,nao,derrota,Jonathan Kuminga,26
+2024-25,temporada regular,29,December 25,L.A. Lakers,casa,113,115,nao,derrota,Stephen Curry,38
+2024-25,temporada regular,30,December 27,L.A. Clippers,fora,92,102,nao,derrota,Jonathan Kuminga,34
+2024-25,temporada regular,31,December 28,Phoenix,casa,109,105,nao,vitoria,Jonathan Kuminga,34
+2024-25,temporada regular,32,December 30,Cleveland,casa,95,113,nao,derrota,Moses Moody,19
+2024-25,temporada regular,33,January 2,Philadelphia,casa,139,105,nao,vitoria,Stephen Curry,30
+2024-25,temporada regular,34,January 4,Memphis,casa,121,113,nao,vitoria,Andrew Wiggins,24
+2024-25,temporada regular,35,January 5,Sacramento,casa,99,129,nao,derrota,Stephen Curry,26
+2024-25,temporada regular,36,January 7,Miami,casa,98,114,nao,derrota,Stephen Curry,31
+2024-25,temporada regular,37,January 9,Detroit,fora,107,104,nao,vitoria,Buddy Hield,19
+2024-25,temporada regular,38,January 10,Indiana,fora,96,108,nao,derrota,"Hield, Spencer",17
+2024-25,temporada regular,39,January 13,Toronto,fora,101,104,nao,derrota,Stephen Curry,26
+2024-25,temporada regular,40,January 15,Minnesota,fora,116,115,nao,vitoria,Stephen Curry,31
+2024-25,temporada regular,41,January 18,Washington,casa,122,114,nao,vitoria,Andrew Wiggins,31
+2024-25,temporada regular,42,January 20,Boston,casa,85,125,nao,derrota,Stephen Curry,18
+2024-25,temporada regular,43,January 22,Sacramento,fora,117,123,nao,derrota,Andrew Wiggins,25
+2024-25,temporada regular,44,January 23,Chicago,casa,131,106,nao,vitoria,Stephen Curry,21
+2024-25,temporada regular,45,January 25,L.A. Lakers,casa,108,118,nao,derrota,Andrew Wiggins,20
+2024-25,temporada regular,46,January 28,Utah,casa,114,103,nao,vitoria,Dennis Schröder,23
+2024-25,temporada regular,47,January 29,Oklahoma City,casa,116,109,nao,vitoria,Andrew Wiggins,27
+2024-25,temporada regular,48,January 31,Phoenix,casa,105,130,nao,derrota,"Moody, Wiggins",17
+2024-25,temporada regular,49,February 3,Orlando,casa,104,99,nao,vitoria,Andrew Wiggins,25
+2024-25,temporada regular,50,February 5,Utah,fora,128,131,nao,derrota,Stephen Curry,32
+2024-25,temporada regular,51,February 6,L.A. Lakers,fora,112,120,nao,derrota,Stephen Curry,37
+2024-25,temporada regular,52,February 8,Chicago,fora,132,111,nao,vitoria,Stephen Curry,34
+2024-25,temporada regular,53,February 10,Milwaukee,fora,125,111,nao,vitoria,Stephen Curry,38
+2024-25,temporada regular,54,February 12,Dallas,fora,107,111,nao,derrota,Stephen Curry,25
+2024-25,temporada regular,55,February 13,Houston,fora,105,98,nao,vitoria,Stephen Curry,27
+2024-25,temporada regular,56,February 21,Sacramento,fora,132,108,nao,vitoria,"Hield, Moody",22
+2024-25,temporada regular,57,February 23,Dallas,casa,126,102,nao,vitoria,Stephen Curry,30
+2024-25,temporada regular,58,February 25,Charlotte,casa,128,92,nao,vitoria,Buddy Hield,16
+2024-25,temporada regular,59,February 27,Orlando,fora,121,115,nao,vitoria,Stephen Curry,56
+2024-25,temporada regular,60,March 1,Philadelphia,fora,119,126,nao,derrota,Stephen Curry,29
+2024-25,temporada regular,61,March 3,Charlotte,fora,119,101,nao,vitoria,Buddy Hield,22
+2024-25,temporada regular,62,March 4,New York,fora,114,102,nao,vitoria,Stephen Curry,28
+2024-25,temporada regular,63,March 6,Brooklyn,fora,121,119,nao,vitoria,Stephen Curry,40
+2024-25,temporada regular,64,March 8,Detroit,casa,115,110,nao,vitoria,Stephen Curry,32
+2024-25,temporada regular,65,March 10,Portland,casa,130,120,nao,vitoria,Gary Payton II,26
+2024-25,temporada regular,66,March 13,Sacramento,casa,130,104,nao,vitoria,Draymond Green,23
+2024-25,temporada regular,67,March 15,New York,casa,97,94,nao,vitoria,Stephen Curry,28
+2024-25,temporada regular,68,March 17,Denver,casa,105,114,nao,derrota,Jimmy Butler III,23
+2024-25,temporada regular,69,March 18,Milwaukee,casa,104,93,nao,vitoria,Jimmy Butler III,24
+2024-25,temporada regular,70,March 20,Toronto,casa,117,114,nao,vitoria,Draymond Green,21
+2024-25,temporada regular,71,March 22,Atlanta,fora,115,124,nao,derrota,Jimmy Butler III,25
+2024-25,temporada regular,72,March 25,Miami,fora,86,112,nao,derrota,Brandin Podziemski,14
+2024-25,temporada regular,73,March 28,New Orleans,fora,111,95,nao,vitoria,Stephen Curry,23
+2024-25,temporada regular,74,March 30,San Antonio,fora,148,106,nao,vitoria,Brandin Podziemski,27
+2024-25,temporada regular,75,April 1,Memphis,fora,134,125,nao,vitoria,Stephen Curry,52
+2024-25,temporada regular,76,April 3,L.A. Lakers,fora,123,116,nao,vitoria,Stephen Curry,37
+2024-25,temporada regular,77,April 4,Denver,casa,118,104,nao,vitoria,Stephen Curry,36
+2024-25,temporada regular,78,April 6,Houston,casa,96,106,nao,derrota,Buddy Hield,20
+2024-25,temporada regular,79,April 8,Phoenix,fora,133,95,nao,vitoria,Stephen Curry,25
+2024-25,temporada regular,80,April 9,San Antonio,casa,111,114,nao,derrota,Stephen Curry,30
+2024-25,temporada regular,81,April 11,Portland,fora,103,86,nao,vitoria,Jimmy Butler III,24
+2024-25,temporada regular,82,April 13,L.A. Clippers,casa,119,124,sim,derrota,Stephen Curry,36
+2024-25,play-in,1,April 15,Memphis,casa,121,116,nao,vitoria,Jimmy Butler III,38
+2024-25,playoffs,1,April 20,Houston,fora,95,85,nao,vitoria,Stephen Curry,31
+2024-25,playoffs,2,April 23,Houston,fora,94,109,nao,derrota,Stephen Curry,20
+2024-25,playoffs,3,April 26,Houston,casa,104,93,nao,vitoria,Stephen Curry,36
+2024-25,playoffs,4,April 28,Houston,casa,109,106,nao,vitoria,Jimmy Butler III,27
+2024-25,playoffs,5,April 30,Houston,fora,116,131,nao,derrota,Moses Moody,25
+2024-25,playoffs,6,May 2,Houston,casa,107,115,nao,derrota,Stephen Curry,29
+2024-25,playoffs,7,May 4,Houston,fora,103,89,nao,vitoria,Buddy Hield,33
+2024-25,playoffs,1,May 6,Minnesota,fora,99,88,nao,vitoria,Buddy Hield,24
+2024-25,playoffs,2,May 8,Minnesota,fora,93,117,nao,derrota,Jonathan Kuminga,18
+2024-25,playoffs,3,May 10,Minnesota,casa,97,102,nao,derrota,Jimmy Butler III,33
+2024-25,playoffs,4,May 12,Minnesota,casa,110,117,nao,derrota,Jonathan Kuminga,23
+2024-25,playoffs,5,May 14,Minnesota,fora,110,121,nao,derrota,Brandin Podziemski,28
+2025-26,temporada regular,1,October 21,L.A. Lakers,fora,119,109,nao,vitoria,Jimmy Butler III,31
+2025-26,temporada regular,2,October 23,Denver,casa,137,131,sim,vitoria,Stephen Curry,42
+2025-26,temporada regular,3,October 24,Portland,fora,119,139,nao,derrota,Stephen Curry,35
+2025-26,temporada regular,4,October 27,Memphis,casa,131,118,nao,vitoria,Jonathan Kuminga,25
+2025-26,temporada regular,5,October 28,L.A. Clippers,casa,98,79,nao,vitoria,Jimmy Butler III,21
+2025-26,temporada regular,6,October 30,Milwaukee,fora,110,120,nao,derrota,Stephen Curry,27
+2025-26,temporada regular,7,November 1,Indiana,fora,109,114,nao,derrota,Stephen Curry,24
+2025-26,temporada regular,8,November 4,Phoenix,casa,118,107,nao,vitoria,Stephen Curry,28
+2025-26,temporada regular,9,November 5,Sacramento,fora,116,121,nao,derrota,Will Richard,30
+2025-26,temporada regular,10,November 7,Denver,fora,104,129,nao,derrota,Draymond Green,17
+2025-26,temporada regular,11,November 9,Indiana,casa,114,83,nao,vitoria,Jimmy Butler III,21
+2025-26,temporada regular,12,November 11,Oklahoma City,fora,102,126,nao,derrota,Jonathan Kuminga,13
+2025-26,temporada regular,13,November 12,San Antonio,fora,125,120,nao,vitoria,Stephen Curry,46
+2025-26,temporada regular,14,November 14,San Antonio,fora,109,108,nao,vitoria,Stephen Curry,49
+2025-26,temporada regular,15,November 16,New Orleans,fora,124,106,nao,vitoria,Moses Moody,32
+2025-26,temporada regular,16,November 18,Orlando,fora,113,121,nao,derrota,Stephen Curry,34
+2025-26,temporada regular,17,November 19,Miami,fora,96,110,nao,derrota,Brandin Podziemski,20
+2025-26,temporada regular,18,November 21,Portland,casa,123,127,nao,derrota,Stephen Curry,38
+2025-26,temporada regular,19,November 24,Utah,casa,134,117,nao,vitoria,Stephen Curry,31
+2025-26,temporada regular,20,November 26,Houston,casa,100,104,nao,derrota,Jimmy Butler III,21
+2025-26,temporada regular,21,November 29,New Orleans,casa,104,96,nao,vitoria,Jimmy Butler III,24
+2025-26,temporada regular,22,December 2,Oklahoma City,casa,112,124,nao,derrota,"Podziemski, Spencer",17
+2025-26,temporada regular,23,December 4,Philadelphia,fora,98,99,nao,derrota,Pat Spencer,16
+2025-26,temporada regular,24,December 6,Cleveland,fora,99,94,nao,vitoria,Pat Spencer,19
+2025-26,temporada regular,25,December 7,Chicago,fora,123,91,nao,vitoria,Brandin Podziemski,21
+2025-26,temporada regular,26,December 12,Minnesota,casa,120,127,nao,derrota,Stephen Curry,39
+2025-26,temporada regular,27,December 14,Portland,fora,131,136,nao,derrota,Stephen Curry,48
+2025-26,temporada regular,28,December 18,Phoenix,fora,98,99,nao,derrota,Jimmy Butler III,31
+2025-26,temporada regular,29,December 20,Phoenix,casa,119,116,nao,vitoria,Stephen Curry,28
+2025-26,temporada regular,30,December 22,Orlando,casa,120,97,nao,vitoria,Stephen Curry,26
+2025-26,temporada regular,31,December 25,Dallas,casa,126,116,nao,vitoria,Stephen Curry,23
+2025-26,temporada regular,32,December 28,Toronto,fora,127,141,sim,derrota,Stephen Curry,39
+2025-26,temporada regular,33,December 29,Brooklyn,fora,120,107,nao,vitoria,Stephen Curry,27
+2025-26,temporada regular,34,December 31,Charlotte,fora,132,125,nao,vitoria,Stephen Curry,26
+2025-26,temporada regular,35,January 2,Oklahoma City,casa,94,131,nao,derrota,"''{{tooltip|Tied|Horford, Moody, Richard}}''",13
+2025-26,temporada regular,36,January 3,Utah,casa,123,114,nao,vitoria,Stephen Curry,31
+2025-26,temporada regular,37,January 5,L.A. Clippers,fora,102,103,nao,derrota,Stephen Curry,27
+2025-26,temporada regular,38,January 7,Milwaukee,casa,120,113,nao,vitoria,Stephen Curry,31
+2025-26,temporada regular,39,January 9,Sacramento,casa,137,103,nao,vitoria,Stephen Curry,27
+2025-26,temporada regular,40,January 11,Atlanta,casa,111,124,nao,derrota,Stephen Curry,31
+2025-26,temporada regular,41,January 13,Portland,casa,119,97,nao,vitoria,De'Anthony Melton,23
+2025-26,temporada regular,42,January 15,New York,casa,126,113,nao,vitoria,Jimmy Butler III,32
+2025-26,temporada regular,43,January 17,Charlotte,casa,136,116,nao,vitoria,De'Anthony Melton,24
+2025-26,temporada regular,44,January 19,Miami,casa,135,112,nao,vitoria,Brandin Podziemski,24
+2025-26,temporada regular,45,January 20,Toronto,casa,127,145,nao,derrota,Buddy Hield,25
+2025-26,temporada regular,46,January 22,Dallas,fora,115,123,nao,derrota,Stephen Curry,38
+2025-26,temporada regular,47,January 25,Minnesota,fora,111,85,nao,vitoria,Stephen Curry,26
+2025-26,temporada regular,48,January 26,Minnesota,fora,83,108,nao,derrota,Quinten Post,13
+2025-26,temporada regular,49,January 28,Utah,fora,140,124,nao,vitoria,Stephen Curry,27
+2025-26,temporada regular,50,January 30,Detroit,casa,124,131,nao,derrota,Stephen Curry,23
+2025-26,temporada regular,51,February 3,Philadelphia,casa,94,113,nao,derrota,"Santos, Spencer",13
+2025-26,temporada regular,52,February 5,Phoenix,fora,101,97,nao,vitoria,Pat Spencer,20
+2025-26,temporada regular,53,February 7,L.A. Lakers,fora,99,105,nao,derrota,Moses Moody,25
+2025-26,temporada regular,54,February 9,Memphis,casa,114,113,nao,vitoria,Pat Spencer,17
+2025-26,temporada regular,55,February 11,San Antonio,casa,113,126,nao,derrota,"''{{tooltip|Tied|Green, Melton, Moody}}''",17
+2025-26,temporada regular,56,February 19,Boston,casa,110,121,nao,derrota,De'Anthony Melton,18
+2025-26,temporada regular,57,February 22,Denver,casa,128,117,nao,vitoria,Moses Moody,23
+2025-26,temporada regular,58,February 24,New Orleans,fora,109,113,nao,derrota,De'Anthony Melton,28
+2025-26,temporada regular,59,February 25,Memphis,fora,133,112,nao,vitoria,Will Richard,21
+2025-26,temporada regular,60,February 28,L.A. Lakers,casa,101,129,nao,derrota,Gui Santos,14
+2025-26,temporada regular,61,March 2,L.A. Clippers,casa,101,114,nao,derrota,Brandin Podziemski,22
+2025-26,temporada regular,62,March 5,Houston,fora,115,113,sim,vitoria,Brandin Podziemski,26
+2025-26,temporada regular,63,March 7,Oklahoma City,fora,97,104,nao,derrota,Gui Santos,22
+2025-26,temporada regular,64,March 9,Utah,fora,116,119,nao,derrota,De'Anthony Melton,22
+2025-26,temporada regular,65,March 10,Chicago,casa,124,130,nao,derrota,"''{{tooltip|Tied|Cryer, Porziņģis, Santos, Spencer}}''",17
+2025-26,temporada regular,66,March 13,Minnesota,casa,117,127,nao,derrota,Brandin Podziemski,25
+2025-26,temporada regular,67,March 15,New York,fora,101,107,nao,derrota,Brandin Podziemski,25
+2025-26,temporada regular,68,March 16,Washington,fora,125,117,nao,vitoria,Kristaps Porziņģis,30
+2025-26,temporada regular,69,March 18,Boston,fora,99,120,nao,derrota,"Payton II, Spencer",14
+2025-26,temporada regular,70,March 20,Detroit,fora,101,115,nao,derrota,Brandin Podziemski,15
+2025-26,temporada regular,71,March 21,Atlanta,fora,110,126,nao,derrota,De'Anthony Melton,20
+2025-26,temporada regular,72,March 23,Dallas,fora,137,131,sim,vitoria,Moses Moody,23
+2025-26,temporada regular,73,March 25,Brooklyn,casa,109,106,nao,vitoria,Gui Santos,31
+2025-26,temporada regular,74,March 27,Washington,casa,131,126,nao,vitoria,Kristaps Porziņģis,28
+2025-26,temporada regular,75,March 29,Denver,fora,93,116,nao,derrota,"Podziemski, Porziņģis",23
+2025-26,temporada regular,76,April 1,San Antonio,casa,113,127,nao,derrota,Nate Williams,18
+2025-26,temporada regular,77,April 2,Cleveland,casa,111,118,nao,derrota,"Podziemski, Santos",25
+2025-26,temporada regular,78,April 5,Houston,casa,116,117,nao,derrota,Stephen Curry,29
+2025-26,temporada regular,79,April 7,Sacramento,casa,110,105,nao,vitoria,De'Anthony Melton,21
+2025-26,temporada regular,80,April 9,L.A. Lakers,casa,103,119,nao,derrota,"Podziemski, Williams",17
+2025-26,temporada regular,81,April 10,Sacramento,fora,118,124,nao,derrota,Brandin Podziemski,30
+2025-26,temporada regular,82,April 12,L.A. Clippers,fora,110,115,nao,derrota,Stephen Curry,24
+2025-26,play-in,1,April 15,L.A. Clippers,fora,126,121,nao,vitoria,Stephen Curry,35
+2025-26,play-in,2,April 17,Phoenix,fora,96,111,nao,derrota,Brandin Podziemski,23

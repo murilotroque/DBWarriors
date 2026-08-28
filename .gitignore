@@ -1,0 +1,15 @@
+# Configurações locais do editor/agente
+.claude/
+
+# Artefatos intermediários do pipeline (gerados pelos scripts)
+wiki/
+*.json.tmp
+base.json
+games.json
+player_stats.json
+
+# Sistema
+Thumbs.db
+.DS_Store
+*.pyc
+__pycache__/
